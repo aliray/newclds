@@ -1,0 +1,8 @@
+pip install -i https://pypi.tuna.tsinghua.edu.cn/simple scikit-learn
+pip install -i https://pypi.tuna.tsinghua.edu.cn/simple scikit-image
+pip install -i https://pypi.tuna.tsinghua.edu.cn/simple opencv-python
+pip install -i https://pypi.tuna.tsinghua.edu.cn/simple pandas
+pip install -i https://pypi.tuna.tsinghua.edu.cn/simple timm
+pip install -i https://pypi.tuna.tsinghua.edu.cn/simple tqdm
+pip install -U -i https://pypi.tuna.tsinghua.edu.cn/simple albumentations
+pip install tensorboard
